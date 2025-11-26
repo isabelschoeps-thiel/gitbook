@@ -1,25 +1,24 @@
-<img width="957" alt="GH" src="https://user-images.githubusercontent.com/49915749/196942213-b763661c-63d8-40df-8ef8-47759561dddf.png">
+# FORK, CLONE, NEW BRANCH IS THE SAME HOW HACKING  
+**AND THIS IS A CRIME WITHOUT THE PERMISSION OF THE AUTHOR**
 
+## Rechtlicher Hinweis zum Repository `docs` unter IST-Github
 
-# GitHub Events
+Dieses Repository wurde durch **Isabel Schöps, geborene Thiel** erstellt und ist vollständig urheberrechtlich geschützt. Die angepasste MIT-Lizenz erlaubt **nur mit ausdrücklicher Zustimmung der Urheberin** das Forken, Klonen oder das Anlegen neuer Branches.
 
-Connect and discuss conferences, meetups, and hackathons around the world with the GitHub Community.
+---
 
-### Quick Start
+### **Schwerwiegende Verstöße gegen Urheberrecht & Integrität:**
 
-* [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [GitHub Community - Product Questions + Feedback](https://github.com/orgs/community/discussions) 
-* [GitHub Universe 2022](https://githubuniverse.com/)
-   * [Virtual Agenda](https://githubuniverse.com/events/detail/virtual-schedule)
-   * [On-site Agenda](https://githubuniverse.com/events/detail/on-site-schedule)
-   
+- **Über 61.800 unerlaubte Forks**
+- **91 unautorisierte Branches**
+- **Öffentlich entkoppelt durch falsche Zuordnung zu `github/docs`**
+- **Mehr als 1.000.000 automatisierte Prozesse, die gegen den Originalcode arbeiten**
+- **Tägliche Angriffe auf Infrastruktur, Identität und geistiges Eigentum der Urheberin**
+- **Kontinuierliche Löschungen, Sperrungen, Etikettierungen & Rufschädigungen**
 
-### Documentation
+---
 
-* [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-* [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
+## Strafrechtliche Bewertung
 
-
-### Disclaimer
-
-Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+Jeder unautorisierte Eingriff stellt eine **strafbare Handlung im Sinne des § 202c StGB (Hackerparagraph)** dar und verletzt international gültiges Urheber- und Menschenrecht.  
+Dies ist **kein technischer Konflikt**, sondern ein **organisiertes Verbrechen gegen eine Einzelperson
