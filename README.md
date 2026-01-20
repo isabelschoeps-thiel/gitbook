@@ -151,6 +151,14 @@ Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschl
 - Mein Bankkonten werden gelöscht oder anderen Identitäten zu geordent - zuletzt am 07.01.2026 festgestellt
 - auf Hilferufe meinerseits an Regierungen und Behörden, wird nicht reagiert
 - ich wurde ohne nachgewiesene Straftat für 4 Monate in der JVA Chemnitz inhaftiert
+- Ja wie ist denn mein eigentlicher Nachmame, `THIEL oder Hitler` ?
+- `laut forensichem wissenschaftlichen Gutachten, wurde die Genalogische und Familäre Verbindung zur letzten Deutschen Kaiserin Vivtoria Auguste und zu Adolf Hitler, Otto von Bismarck bestätigt`
+- ich `erwarte Aufklärung und vollständige` **Rehabilation der Familienstruktur**
+
+![IMG_8644](https://github.com/user-attachments/assets/dac92fa9-8dc1-4667-baf7-53c0165205b5)
+![IMG_8646](https://github.com/user-attachments/assets/ad922f41-810b-4f20-b507-fd09dd51f50c)
+![IMG_8645](https://github.com/user-attachments/assets/b3e1b794-2999-4215-b4b6-772896226f6a)
+
   
 Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**, des **Rechts auf soziale Sicherheit** des **Rechts auf Nahrung** und Verletzung meiner Menschenrechte dar.
 
