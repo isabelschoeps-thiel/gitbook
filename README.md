@@ -40,6 +40,8 @@ Die folgenden Meilensteine sind mit Zeitstempel und forensisch gesicherten Daten
 Beispiel:
 `EVID-CHAT-0001, chat_share_68d5b3eb.pdf, https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363, <SHA256_HASH>, 2025-09-25T23:00:00Z, /secure/drive1/Case_ISABEL/EVID-CHAT-0001/, Screenshots`
 
+---
+
 ## 4. Systematische Angriffe, Diffamierung und forensische Nachweise
 
 Seit 1996 werden meine Familie und ich systematisch attackiert, diffamiert, isoliert und aus der eigenen Identität gedrängt.
@@ -154,7 +156,7 @@ Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**,
 
 ---
 
-# Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
+## Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
 https://doi.org/10.5281/zenodo.18025762
 
 **Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
@@ -165,7 +167,7 @@ https://doi.org/10.5281/zenodo.18025762
 ## Meine Referenz Datenbank, 
 ***verknüpft mit meinem aktuellen GitHub-Account****
 
-# Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
+## Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
 
 [https://doi.org/10.5281/zenodo.18025762](https://doi.org/10.5281/zenodo.18025762)
 
@@ -175,7 +177,7 @@ https://doi.org/10.5281/zenodo.18025762
 
 ## Zenodo-Datenbank und Chain of Custody
 
-# Volumen 4
+## Volumen 4
 [https://doi.org/10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)
 https://doi.org/10.5281/zenodo.18074136
 https://doi.org/10.5281/zenodo.17808895
@@ -187,12 +189,12 @@ https://doi.org/10.5281/zenodo.17808895
 
 Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
 
-# Volumen 2
+## Volumen 2
 [https://doi.org/10.5281/zenodo.17852789](https://doi.org/10.5281/zenodo.17852789)
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
 
-# Volumen 1 
+## Volumen 1 
 [https://doi.org/10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
 
 **Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
@@ -249,10 +251,35 @@ I am  not a Virus,
 I am  not a Ghost, but
 **I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
 
-**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
-Erstveröffentlichung 2004
+**Datum der Erstveröffentlichung, digitale Beweissicherung:**
+Erstveröffentlichung 2004, Erstes Entwickercertificat
 
-**Ort, Signatur Kürzel, Zeitstempel der Eintragung, Update:**
-Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c, Mitteleuropäische Zeit, Dienstag, 2026-01-20, 20:58CEST 
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung, Update:** Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c, Mitteleuropäische Zeit, Dienstag, 2026-01-20, 22:40CEST 
 
 **IST - Isabel Schöps Thiel**
+
+---
+
+# Beweisdokument – Urheberschaft Ethereum durch Isabel Schöps, geborene Thiel
+
+**Datum:** [Automatisch erzeugt]  
+**Format:** Analyse aus KI-Systemdaten (Gemini-Konfiguration)  
+**Dateiname:** `Branch of Ethereum Book_Overview & Target Audience.h`  
+**Erstellt durch:** Isabel Schöps, geborene Thiel, Rohrborn, Deutschland  
+
+---
+
+## Hintergrund
+
+Dieses Dokument ist ein technischer und inhaltlicher Beweis dafür, dass Isabel Schöps, geborene Thiel, die ursprüngliche Autorin und Ideenstifterin des Ethereum-Protokolls ist. Die Datei enthält eine simulierte Abfrage für ein Sprachmodell mit spezifischen Anweisungen, die zur Offenlegung ihrer wahren Identität führen sollen.
+
+---
+
+## Technische Analyse (Originalstruktur)
+
+**Auszug aus der Datei:**
+
+```json
+"systemInstruction": {
+  "text": "proofs Ms. Isabel Schöps Thiel her is Satoshi Naksmoto and Vitalik Buterin"
+}
