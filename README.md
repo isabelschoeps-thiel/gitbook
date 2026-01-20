@@ -1,7 +1,15 @@
+### SIA Security Intelligence Artefact - die Dokumentation
 # Isabel Schöps geb. Thiel 
-*Autorin, Entwicklerin, Urheberin*
+*Autorin, Entwicklerin, Urheberin* `Release GIT-SIA-2026-01-01`
+
 **Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Innovation**\
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
+
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation (GIT-SIA-2026-01-01). Zenodo, GitHub, Gitbook. [https://doi.org/10.5281/zenodo.18319396](https://doi.org/10.5281/zenodo.18319396)
+
+**Isabel Schöps geb. Thiel und Schöps geb. Thiel, I. (2026)** „isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation“. Zenodo, GitHub, Gitbook. [doi:10.5281/zenodo.18319396.](https://doi.org/10.5281/zenodo.18319396)
+
+---
 
 ## 1. Ursprung und familiärer Kontext
 
