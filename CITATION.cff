@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: GIT-SIA-2026-01-01  isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation
+authors:
+- family-names: SCHÖPS GEB THIEL
+  given-names: ISABEL
+  orcid: https://orcid.org/0009-0003-4235-2231
+- family-names: Schöps geb. Thiel
+  given-names: Isabel
+  orcid: https://orcid.org/0009-0006-8765-3267
+title: gitbook
+version: 1.0.0
+doi: 10.5281/zenodo.18319396
+date-released: 2026-01-20
+url: https://github.com/isabelschoeps-thiel/gitbook
